@@ -1,0 +1,11 @@
+Mutate_Type	SNP_Number	Percentage(%)
+Start_syn	0	0.0000
+Stop_syn	0	0.0000
+Start_nonsyn	0	0.0000
+Stop_nonsyn	0	0.0000
+Premature_stop	0	0.0000
+Synonymous	0	0.0000
+Nonsynonymous	3	100.0000
+Total_CDS_SNP	3	100.0000
+Intergenic	0	0.0000
+Total_SNP	3

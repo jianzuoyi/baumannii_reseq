@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="390" width="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rect fill="#FFFFFF" height="390" width="600" x="0" y="0" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="73" xml:space="preserve" y="35.4">B_H2NJFDMXX_L1
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="248" xml:space="preserve" y="65.4">C_H3JFKDMXX_L1
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="248" xml:space="preserve" y="95.4">Reference
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="248" xml:space="preserve" y="125.4">J_H3JCWDMXX_L1
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="248" xml:space="preserve" y="155.4">G_H3JC2DMXX_L1
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="393" xml:space="preserve" y="185.4">I_H3JC2DMXX_L1
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="393" xml:space="preserve" y="215.4">E_H3JC2DMXX_L1
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="334" xml:space="preserve" y="245.4">H_H3JFKDMXX_L1
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="344" xml:space="preserve" y="275.4">F_H3JFKDMXX_L1
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="344" xml:space="preserve" y="305.4">A2_H2MVWDMXX_L1
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="73" xml:space="preserve" y="335.4">D_H3JFKDMXX_L1
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="30" x2="60" y1="142" y2="142" />
+	<line stroke="#000000" stroke-width="1" x1="66" x2="60" y1="30" y2="30" />
+	<line stroke="#000000" stroke-width="1" x1="241" x2="241" y1="60" y2="60" />
+	<line stroke="#000000" stroke-width="1" x1="241" x2="241" y1="90" y2="90" />
+	<line stroke="#000000" stroke-width="1" x1="241" x2="234" y1="75" y2="75" />
+	<line stroke="#000000" stroke-width="1" x1="241" x2="241" y1="120" y2="120" />
+	<line stroke="#000000" stroke-width="1" x1="241" x2="241" y1="150" y2="150" />
+	<line stroke="#000000" stroke-width="1" x1="241" x2="234" y1="135" y2="135" />
+	<line stroke="#000000" stroke-width="1" x1="234" x2="204" y1="105" y2="105" />
+	<line stroke="#000000" stroke-width="1" x1="386" x2="380" y1="180" y2="180" />
+	<line stroke="#000000" stroke-width="1" x1="386" x2="380" y1="210" y2="210" />
+	<line stroke="#000000" stroke-width="1" x1="380" x2="276" y1="195" y2="195" />
+	<line stroke="#000000" stroke-width="1" x1="327" x2="276" y1="240" y2="240" />
+	<line stroke="#000000" stroke-width="1" x1="276" x2="262" y1="218" y2="218" />
+	<line stroke="#000000" stroke-width="1" x1="337" x2="331" y1="270" y2="270" />
+	<line stroke="#000000" stroke-width="1" x1="337" x2="331" y1="300" y2="300" />
+	<line stroke="#000000" stroke-width="1" x1="331" x2="262" y1="285" y2="285" />
+	<line stroke="#000000" stroke-width="1" x1="262" x2="204" y1="251" y2="251" />
+	<line stroke="#000000" stroke-width="1" x1="204" x2="66" y1="178" y2="178" />
+	<line stroke="#000000" stroke-width="1" x1="66" x2="66" y1="330" y2="330" />
+	<line stroke="#000000" stroke-width="1" x1="66" x2="60" y1="254" y2="254" />
+	<line stroke="#000000" stroke-width="1" x1="241" x2="241" y1="60" y2="90" />
+	<line stroke="#000000" stroke-width="1" x1="241" x2="241" y1="120" y2="150" />
+	<line stroke="#000000" stroke-width="1" x1="234" x2="234" y1="75" y2="135" />
+	<line stroke="#000000" stroke-width="1" x1="380" x2="380" y1="180" y2="210" />
+	<line stroke="#000000" stroke-width="1" x1="276" x2="276" y1="195" y2="240" />
+	<line stroke="#000000" stroke-width="1" x1="331" x2="331" y1="270" y2="300" />
+	<line stroke="#000000" stroke-width="1" x1="262" x2="262" y1="218" y2="285" />
+	<line stroke="#000000" stroke-width="1" x1="204" x2="204" y1="105" y2="251" />
+	<line stroke="#000000" stroke-width="1" x1="66" x2="66" y1="178" y2="330" />
+	<line stroke="#000000" stroke-width="1" x1="60" x2="60" y1="30" y2="254" />
+	<line stroke="#000000" stroke-width="1" x1="60" x2="380" y1="360" y2="360" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="12" x="60" xml:space="preserve" y="350">Divergence, substitutions/site
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="60" x2="60" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="71.5259969762267" x2="71.5259969762267" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="83.0519939524535" x2="83.0519939524535" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="94.5779909286802" x2="94.5779909286802" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="106.103987904907" x2="106.103987904907" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="117.629984881134" x2="117.629984881134" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="129.15598185736" x2="129.15598185736" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="140.681978833587" x2="140.681978833587" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="152.207975809814" x2="152.207975809814" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="163.733972786041" x2="163.733972786041" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="175.259969762267" x2="175.259969762267" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="186.785966738494" x2="186.785966738494" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="198.311963714721" x2="198.311963714721" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="209.837960690947" x2="209.837960690947" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="221.363957667174" x2="221.363957667174" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="232.889954643401" x2="232.889954643401" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="244.415951619628" x2="244.415951619628" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="255.941948595854" x2="255.941948595854" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="267.467945572081" x2="267.467945572081" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="278.993942548308" x2="278.993942548308" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="290.519939524535" x2="290.519939524535" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="302.045936500761" x2="302.045936500761" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="313.571933476988" x2="313.571933476988" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="325.097930453215" x2="325.097930453215" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="336.623927429442" x2="336.623927429442" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="348.149924405668" x2="348.149924405668" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="359.675921381895" x2="359.675921381895" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="371.201918358122" x2="371.201918358122" y1="357" y2="360" />
+	<line stroke="#000000" stroke-width="1" x1="60" x2="60" y1="354" y2="360" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="56.58" xml:space="preserve" y="374.8">0
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="117.629984881134" x2="117.629984881134" y1="354" y2="360" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="109.079984881134" xml:space="preserve" y="374.8">0.2
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="175.259969762267" x2="175.259969762267" y1="354" y2="360" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="166.709969762267" xml:space="preserve" y="374.8">0.4
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="232.889954643401" x2="232.889954643401" y1="354" y2="360" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="224.339954643401" xml:space="preserve" y="374.8">0.6
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="290.519939524535" x2="290.519939524535" y1="354" y2="360" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="281.969939524535" xml:space="preserve" y="374.8">0.8
+	</text>
+	<line stroke="#000000" stroke-width="1" x1="348.149924405668" x2="348.149924405668" y1="354" y2="360" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="15" x="344.729924405668" xml:space="preserve" y="374.8">1
+	</text><!-- 
+	Generated using the Perl SVG Module V2.64
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+ -->
+</svg>

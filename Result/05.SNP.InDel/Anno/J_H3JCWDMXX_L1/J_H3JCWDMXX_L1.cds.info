@@ -1,0 +1,8 @@
+ref_id	position	ref_base<->sample_base	snp_status	strand	codon_phase	codon_mutate	aa_mutate	mutate_type	synonymous	nonsynonymous	gene_id	pos_start	pos_end
+CP019114	776324	T<->G	Homo	+	90:0	TAT<->GAT	Y<->D	Nonsynonymous	0	1	BV884_03700	776057	776773
+CP019114	778255	T<->C	Homo	+	484:0	TGT<->CGT	C<->R	Nonsynonymous	0	1	BV884_03705	776806	778455
+CP019114	2018103	C<->T	Homo	+	94:1	GCC<->GTC	A<->V	Nonsynonymous	0	1	BV884_09860	2017823	2018896
+CP019114	2190359	T<->G	Homo	-	683:2	CCT<->CCG	P<->P	Synonymous	1	0	BV884_10650	2189978	2192407
+CP019114	3000664	T<->C	Homo	-	748:2	GCT<->GCC	A<->A	Synonymous	1	0	BV884_14590	3000475	3002907
+CP019114	3625074	T<->C	Homo	+	8:2	TGT<->TGC	C<->C	Synonymous	1	0	BV884_17515	3625051	3625743
+CP019114	3732031	A<->G	Homo	+	109:0	AGT<->GGT	S<->G	Nonsynonymous	0	1	BV884_18065	3731707	3732474
