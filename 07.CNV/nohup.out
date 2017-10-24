@@ -1,0 +1,964 @@
+Parsing file /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/A2_H2MVWDMXX_L1.bam ...
+Allocating memory ...
+Done.
+Filling and saving tree for 'CP019114' ...
+Filling and saving tree for 'CP019115' ...
+Writing histograms ... 
+Total of 9471337 reads were placed.
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 100 for 'CP019114' ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 100 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 245.034 +- 24.9362 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 245.034 +- 24.9362 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 1000 for 'CP019114' ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 1000 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 2457.76 +- 151.458 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 2457.76 +- 151.458 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Processing data from the following chromosomes: ['CP019114', 'CP019115']
+start run_tree: 2017-10-24 09:35:39
+
+===== Running tree on input data
+Running on bam /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/A2_H2MVWDMXX_L1.bam
+['/its1/GB_BT2/jianzuoyi/pipeline/biosoft/CNVnator/bin/cnvnator', '-root', 'temp/A2_H2MVWDMXX_L1.bam.root', '-chrom', 'CP019114', 'CP019115', '-tree', '/its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/A2_H2MVWDMXX_L1.bam', '-unique']
+end run_tree: 2017-10-24 09:35:56
+
+start histograms: 2017-10-24 09:35:56
+
+===== Running histograms on input data for input bin size
+end histograms: 2017-10-24 09:35:58
+
+start stats: 2017-10-24 09:35:58
+
+===== Running stats on input data for input bin size
+end stats: 2017-10-24 09:35:58
+
+start run_partition: 2017-10-24 09:36:01
+
+end run_partition: 2017-10-24 09:36:14
+
+/its1/GB_BT2/jianzuoyi/projects/baumannii/07.CNV/A2_H2MVWDMXX_L1
+===== Running calls on input data
+Parsing file /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/B_H2NJFDMXX_L1.bam ...
+Allocating memory ...
+Done.
+Filling and saving tree for 'CP019114' ...
+Filling and saving tree for 'CP019115' ...
+Writing histograms ... 
+Total of 11282908 reads were placed.
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 100 for 'CP019114' ...
+Making directory bin_100 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 100 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 285.235 +- 28.4927 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 285.235 +- 28.4927 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 1000 for 'CP019114' ...
+Making directory bin_1000 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 1000 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 2858.95 +- 187.212 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 2858.95 +- 187.212 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Processing data from the following chromosomes: ['CP019114', 'CP019115']
+start run_tree: 2017-10-24 09:36:14
+
+===== Running tree on input data
+Running on bam /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/B_H2NJFDMXX_L1.bam
+['/its1/GB_BT2/jianzuoyi/pipeline/biosoft/CNVnator/bin/cnvnator', '-root', 'temp/B_H2NJFDMXX_L1.bam.root', '-chrom', 'CP019114', 'CP019115', '-tree', '/its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/B_H2NJFDMXX_L1.bam', '-unique']
+end run_tree: 2017-10-24 09:36:31
+
+start histograms: 2017-10-24 09:36:31
+
+===== Running histograms on input data for input bin size
+end histograms: 2017-10-24 09:36:33
+
+start stats: 2017-10-24 09:36:33
+
+===== Running stats on input data for input bin size
+end stats: 2017-10-24 09:36:33
+
+start run_partition: 2017-10-24 09:36:36
+
+end run_partition: 2017-10-24 09:36:49
+
+/its1/GB_BT2/jianzuoyi/projects/baumannii/07.CNV/B_H2NJFDMXX_L1
+===== Running calls on input data
+Parsing file /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/D_H3JFKDMXX_L1.bam ...
+Allocating memory ...
+Done.
+Filling and saving tree for 'CP019114' ...
+Filling and saving tree for 'CP019115' ...
+Writing histograms ... 
+Total of 7377515 reads were placed.
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 100 for 'CP019114' ...
+Making directory bin_100 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 100 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 185.893 +- 24.2188 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 185.893 +- 24.2188 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 1000 for 'CP019114' ...
+Making directory bin_1000 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 1000 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 1866.09 +- 179.954 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 1866.09 +- 179.954 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Processing data from the following chromosomes: ['CP019114', 'CP019115']
+start run_tree: 2017-10-24 09:36:50
+
+===== Running tree on input data
+Running on bam /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/D_H3JFKDMXX_L1.bam
+['/its1/GB_BT2/jianzuoyi/pipeline/biosoft/CNVnator/bin/cnvnator', '-root', 'temp/D_H3JFKDMXX_L1.bam.root', '-chrom', 'CP019114', 'CP019115', '-tree', '/its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/D_H3JFKDMXX_L1.bam', '-unique']
+end run_tree: 2017-10-24 09:37:00
+
+start histograms: 2017-10-24 09:37:00
+
+===== Running histograms on input data for input bin size
+end histograms: 2017-10-24 09:37:02
+
+start stats: 2017-10-24 09:37:02
+
+===== Running stats on input data for input bin size
+end stats: 2017-10-24 09:37:02
+
+start run_partition: 2017-10-24 09:37:05
+
+end run_partition: 2017-10-24 09:37:18
+
+/its1/GB_BT2/jianzuoyi/projects/baumannii/07.CNV/D_H3JFKDMXX_L1
+===== Running calls on input data
+Parsing file /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/F_H3JFKDMXX_L1.bam ...
+Allocating memory ...
+Done.
+Filling and saving tree for 'CP019114' ...
+Filling and saving tree for 'CP019115' ...
+Writing histograms ... 
+Total of 7017965 reads were placed.
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 100 for 'CP019114' ...
+Making directory bin_100 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 100 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 183.06 +- 28.6568 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 183.06 +- 28.6568 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 1000 for 'CP019114' ...
+Making directory bin_1000 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 1000 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 1833.8 +- 275.479 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 1833.8 +- 275.479 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Processing data from the following chromosomes: ['CP019114', 'CP019115']
+start run_tree: 2017-10-24 09:37:19
+
+===== Running tree on input data
+Running on bam /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/F_H3JFKDMXX_L1.bam
+['/its1/GB_BT2/jianzuoyi/pipeline/biosoft/CNVnator/bin/cnvnator', '-root', 'temp/F_H3JFKDMXX_L1.bam.root', '-chrom', 'CP019114', 'CP019115', '-tree', '/its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/F_H3JFKDMXX_L1.bam', '-unique']
+end run_tree: 2017-10-24 09:37:30
+
+start histograms: 2017-10-24 09:37:30
+
+===== Running histograms on input data for input bin size
+end histograms: 2017-10-24 09:37:32
+
+start stats: 2017-10-24 09:37:32
+
+===== Running stats on input data for input bin size
+end stats: 2017-10-24 09:37:32
+
+start run_partition: 2017-10-24 09:37:35
+
+end run_partition: 2017-10-24 09:37:52
+
+/its1/GB_BT2/jianzuoyi/projects/baumannii/07.CNV/F_H3JFKDMXX_L1
+===== Running calls on input data
+Parsing file /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/H_H3JFKDMXX_L1.bam ...
+Allocating memory ...
+Done.
+Filling and saving tree for 'CP019114' ...
+Filling and saving tree for 'CP019115' ...
+Writing histograms ... 
+Total of 7091089 reads were placed.
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 100 for 'CP019114' ...
+Making directory bin_100 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 100 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 182.513 +- 26.1791 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 182.513 +- 26.1791 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 1000 for 'CP019114' ...
+Making directory bin_1000 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 1000 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 1829.09 +- 219.637 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 1829.09 +- 219.637 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Processing data from the following chromosomes: ['CP019114', 'CP019115']
+start run_tree: 2017-10-24 09:37:53
+
+===== Running tree on input data
+Running on bam /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/H_H3JFKDMXX_L1.bam
+['/its1/GB_BT2/jianzuoyi/pipeline/biosoft/CNVnator/bin/cnvnator', '-root', 'temp/H_H3JFKDMXX_L1.bam.root', '-chrom', 'CP019114', 'CP019115', '-tree', '/its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/H_H3JFKDMXX_L1.bam', '-unique']
+end run_tree: 2017-10-24 09:38:03
+
+start histograms: 2017-10-24 09:38:03
+
+===== Running histograms on input data for input bin size
+end histograms: 2017-10-24 09:38:04
+
+start stats: 2017-10-24 09:38:04
+
+===== Running stats on input data for input bin size
+end stats: 2017-10-24 09:38:05
+
+start run_partition: 2017-10-24 09:38:07
+
+end run_partition: 2017-10-24 09:38:18
+
+/its1/GB_BT2/jianzuoyi/projects/baumannii/07.CNV/H_H3JFKDMXX_L1
+===== Running calls on input data
+Parsing file /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/C_H3JFKDMXX_L1.bam ...
+Allocating memory ...
+Done.
+Filling and saving tree for 'CP019114' ...
+Filling and saving tree for 'CP019115' ...
+Writing histograms ... 
+Total of 7661993 reads were placed.
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 100 for 'CP019114' ...
+Making directory bin_100 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 100 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 193.934 +- 22.389 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 193.934 +- 22.389 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 1000 for 'CP019114' ...
+Making directory bin_1000 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 1000 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 1946.76 +- 130.866 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 1946.76 +- 130.866 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Processing data from the following chromosomes: ['CP019114', 'CP019115']
+start run_tree: 2017-10-24 09:38:19
+
+===== Running tree on input data
+Running on bam /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/C_H3JFKDMXX_L1.bam
+['/its1/GB_BT2/jianzuoyi/pipeline/biosoft/CNVnator/bin/cnvnator', '-root', 'temp/C_H3JFKDMXX_L1.bam.root', '-chrom', 'CP019114', 'CP019115', '-tree', '/its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/C_H3JFKDMXX_L1.bam', '-unique']
+end run_tree: 2017-10-24 09:38:29
+
+start histograms: 2017-10-24 09:38:29
+
+===== Running histograms on input data for input bin size
+end histograms: 2017-10-24 09:38:31
+
+start stats: 2017-10-24 09:38:31
+
+===== Running stats on input data for input bin size
+end stats: 2017-10-24 09:38:31
+
+start run_partition: 2017-10-24 09:38:34
+
+end run_partition: 2017-10-24 09:38:47
+
+/its1/GB_BT2/jianzuoyi/projects/baumannii/07.CNV/C_H3JFKDMXX_L1
+===== Running calls on input data
+Parsing file /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/E_H3JC2DMXX_L1.bam ...
+Allocating memory ...
+Done.
+Filling and saving tree for 'CP019114' ...
+Filling and saving tree for 'CP019115' ...
+Writing histograms ... 
+Total of 8861089 reads were placed.
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 100 for 'CP019114' ...
+Making directory bin_100 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 100 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 224.625 +- 28.9494 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 224.625 +- 28.9494 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 1000 for 'CP019114' ...
+Making directory bin_1000 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 1000 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 2252.91 +- 261.696 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 2252.91 +- 261.696 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Processing data from the following chromosomes: ['CP019114', 'CP019115']
+start run_tree: 2017-10-24 09:38:47
+
+===== Running tree on input data
+Running on bam /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/E_H3JC2DMXX_L1.bam
+['/its1/GB_BT2/jianzuoyi/pipeline/biosoft/CNVnator/bin/cnvnator', '-root', 'temp/E_H3JC2DMXX_L1.bam.root', '-chrom', 'CP019114', 'CP019115', '-tree', '/its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/E_H3JC2DMXX_L1.bam', '-unique']
+end run_tree: 2017-10-24 09:39:02
+
+start histograms: 2017-10-24 09:39:02
+
+===== Running histograms on input data for input bin size
+end histograms: 2017-10-24 09:39:04
+
+start stats: 2017-10-24 09:39:04
+
+===== Running stats on input data for input bin size
+end stats: 2017-10-24 09:39:04
+
+start run_partition: 2017-10-24 09:39:06
+
+end run_partition: 2017-10-24 09:39:19
+
+/its1/GB_BT2/jianzuoyi/projects/baumannii/07.CNV/E_H3JC2DMXX_L1
+===== Running calls on input data
+Parsing file /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/G_H3JC2DMXX_L1.bam ...
+Allocating memory ...
+Done.
+Filling and saving tree for 'CP019114' ...
+Filling and saving tree for 'CP019115' ...
+Writing histograms ... 
+Total of 8340040 reads were placed.
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 100 for 'CP019114' ...
+Making directory bin_100 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 100 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 210.993 +- 30.6487 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 210.993 +- 30.6487 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 1000 for 'CP019114' ...
+Making directory bin_1000 ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 1000 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 2103.21 +- 296.916 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 2103.21 +- 296.916 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Processing data from the following chromosomes: ['CP019114', 'CP019115']
+start run_tree: 2017-10-24 09:39:19
+
+===== Running tree on input data
+Running on bam /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/G_H3JC2DMXX_L1.bam
+['/its1/GB_BT2/jianzuoyi/pipeline/biosoft/CNVnator/bin/cnvnator', '-root', 'temp/G_H3JC2DMXX_L1.bam.root', '-chrom', 'CP019114', 'CP019115', '-tree', '/its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/G_H3JC2DMXX_L1.bam', '-unique']
+end run_tree: 2017-10-24 09:39:31
+
+start histograms: 2017-10-24 09:39:31
+
+===== Running histograms on input data for input bin size
+end histograms: 2017-10-24 09:39:33
+
+start stats: 2017-10-24 09:39:33
+
+===== Running stats on input data for input bin size
+end stats: 2017-10-24 09:39:34
+
+start run_partition: 2017-10-24 09:39:36
+
+end run_partition: 2017-10-24 09:39:48
+
+/its1/GB_BT2/jianzuoyi/projects/baumannii/07.CNV/G_H3JC2DMXX_L1
+===== Running calls on input data
+Parsing file /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/J_H3JCWDMXX_L1.bam ...
+Allocating memory ...
+Done.
+Filling and saving tree for 'CP019114' ...
+Filling and saving tree for 'CP019115' ...
+Writing histograms ... 
+Total of 8084593 reads were placed.
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 100 for 'CP019114' ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 100 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 203.538 +- 37.0069 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 203.538 +- 37.0069 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 1000 for 'CP019114' ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 1000 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 2046.93 +- 419.639 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 2046.93 +- 419.639 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Processing data from the following chromosomes: ['CP019114', 'CP019115']
+start run_tree: 2017-10-24 09:39:48
+
+===== Running tree on input data
+Running on bam /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/J_H3JCWDMXX_L1.bam
+['/its1/GB_BT2/jianzuoyi/pipeline/biosoft/CNVnator/bin/cnvnator', '-root', 'temp/J_H3JCWDMXX_L1.bam.root', '-chrom', 'CP019114', 'CP019115', '-tree', '/its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/J_H3JCWDMXX_L1.bam', '-unique']
+end run_tree: 2017-10-24 09:40:00
+
+start histograms: 2017-10-24 09:40:00
+
+===== Running histograms on input data for input bin size
+end histograms: 2017-10-24 09:40:02
+
+start stats: 2017-10-24 09:40:02
+
+===== Running stats on input data for input bin size
+end stats: 2017-10-24 09:40:03
+
+start run_partition: 2017-10-24 09:40:05
+
+end run_partition: 2017-10-24 09:40:17
+
+/its1/GB_BT2/jianzuoyi/projects/baumannii/07.CNV/J_H3JCWDMXX_L1
+===== Running calls on input data
+Parsing file /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/I_H3JC2DMXX_L1.bam ...
+Allocating memory ...
+Done.
+Filling and saving tree for 'CP019114' ...
+Filling and saving tree for 'CP019115' ...
+Writing histograms ... 
+Total of 8818961 reads were placed.
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 100 for 'CP019114' ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 100 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 220.138 +- 26.276 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 220.138 +- 26.276 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Allocating memory ...
+Done.
+Calculating histograms with bin size of 1000 for 'CP019114' ...
+Making GC histogram for 'CP019114' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (3927258) for 'CP019114'.
+Doing nothing!
+Done.
+Calculating histograms with bin size of 1000 for 'CP019115' ...
+Making GC histogram for 'CP019115' ...
+Can't open file with chromosome sequence.
+No chromosome/contig information parsed.
+Sequence length (0) is different from expectation (75390) for 'CP019115'.
+Doing nothing!
+Done.
+Making statistics for CP019114 ...
+Making statistics for CP019115 ...
+Average RD per bin (1-22) is 2207.57 +- 189.057 (before GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (before GC correction)
+Correcting counts by GC-content for 'CP019114' ...
+No histogram with GC content for 'CP019114' found.
+No correction made.
+Correcting counts by GC-content for 'CP019115' ...
+No histogram with GC content for 'CP019115' found.
+No correction made.
+Making statistics for CP019114 after GC correction ...
+Can't find GC-content histogram for 'CP019114'.
+Making statistics for CP019115 after GC correction ...
+Can't find GC-content histogram for 'CP019115'.
+Average RD per bin (1-22) is 2207.57 +- 189.057 (after GC correction)
+Average RD per bin (X,Y)  is 0 +- 0 (after GC correction)
+Processing data from the following chromosomes: ['CP019114', 'CP019115']
+start run_tree: 2017-10-24 09:40:18
+
+===== Running tree on input data
+Running on bam /its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/I_H3JC2DMXX_L1.bam
+['/its1/GB_BT2/jianzuoyi/pipeline/biosoft/CNVnator/bin/cnvnator', '-root', 'temp/I_H3JC2DMXX_L1.bam.root', '-chrom', 'CP019114', 'CP019115', '-tree', '/its1/GB_BT2/jianzuoyi/projects/baumannii/02.mapping/I_H3JC2DMXX_L1.bam', '-unique']
+end run_tree: 2017-10-24 09:40:30
+
+start histograms: 2017-10-24 09:40:30
+
+===== Running histograms on input data for input bin size
+end histograms: 2017-10-24 09:40:32
+
+start stats: 2017-10-24 09:40:32
+
+===== Running stats on input data for input bin size
+end stats: 2017-10-24 09:40:33
+
+start run_partition: 2017-10-24 09:40:35
+
+end run_partition: 2017-10-24 09:40:46
+
+/its1/GB_BT2/jianzuoyi/projects/baumannii/07.CNV/I_H3JC2DMXX_L1
+===== Running calls on input data
