@@ -1,0 +1,12 @@
+nohup: ignoring input
+run_RGI.sh: line 1: MDR-CQ: command not found
+run_RGI.sh: line 3: A2_H2MVWDMXX_L1: command not found
+run_RGI.sh: line 5: B_H2NJFDMXX_L1: command not found
+run_RGI.sh: line 7: C_H3JFKDMXX_L1: command not found
+run_RGI.sh: line 9: D_H3JFKDMXX_L1: command not found
+run_RGI.sh: line 11: E_H3JC2DMXX_L1: command not found
+run_RGI.sh: line 13: F_H3JFKDMXX_L1: command not found
+run_RGI.sh: line 15: G_H3JC2DMXX_L1: command not found
+run_RGI.sh: line 17: H_H3JFKDMXX_L1: command not found
+run_RGI.sh: line 19: I_H3JC2DMXX_L1: command not found
+run_RGI.sh: line 21: J_H3JCWDMXX_L1: command not found
